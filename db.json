@@ -1,0 +1,34 @@
+{
+    "propiedades": [
+        {
+            "id":1,
+            "img":"tyrel-johnson-735248-unsplash.png",
+            "nombre":"casa1",
+            "metreos cuadrados":78,
+            "habitaciones":4,
+            "baños":3,
+            "tipo inmueble":"finca",
+            "estado":"en venta",
+            "precio":"20000000",
+            "parqueadero":"si",
+            "nompre propietario":"carlos",
+            "contacto propietario":"3206754356",
+            "descripcion":"casa grande"
+        },
+        {
+            "id":2,
+            "img":"los-angeles-1.png",
+            "nombre":"casa2",
+            "metreos cuadrados":128,
+            "habitaciones":6,
+            "baños":4,
+            "tipo inmueble":"casa",
+            "estado":"en renta",
+            "precio":"60000000",
+            "parqueadero":"si",
+            "nompre propietario":"mauricio",
+            "contacto propietario":"345975478",
+            "descripcion":"casa con las mejores prestaciones"
+        }
+    ]
+}
